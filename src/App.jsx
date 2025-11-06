@@ -420,7 +420,7 @@ export default function App() {
         <section style={{ ...card, marginBottom: 24 }}>
           <h3 style={{ marginTop: 0, color: "#0f172a" }}>Top Companies by EHEI</h3>
           <p style={{ marginTop: 0, color: "#334155" }}>Lists the companies with the highest modeled hazard exposure index (EHEI) after ESG mitigation.</p>
-          <div style={{ margin-top: 0px; color: rgb(32, 64, 128);}}>
+          <div style={{ marginTop: 0, color: "#0f172a" }}>
             <table style={{ width: "100%", borderCollapse: "collapse" }}>
               <thead>
                 <tr style={{ background: "#f8fafc" }}>
