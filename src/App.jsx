@@ -310,7 +310,7 @@ export default function App() {
   const td = { padding: 10, borderBottom: "1px solid #f1f5f9" };
 
   return (
-    <div style={{ padding: 24, background: "#0f172a", minHeight: "100vh" }}>
+    <div style={{ padding: 24, minHeight: "100vh" }}>
       <div style={{ maxWidth: 1200, margin: "0 auto", color: "#e2e8f0" }}>
         <header style={{ marginBottom: 24 }}>
           <h1 style={{ fontSize: 28, margin: 0 }}>ESG–Casualty Risk Dashboard</h1>
