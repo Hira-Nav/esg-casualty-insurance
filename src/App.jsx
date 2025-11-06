@@ -462,7 +462,7 @@ export default function App() {
         </section>
 
         <footer style={{ opacity: 0.8, fontSize: 12, textAlign: "center", marginTop: 24 }}>
-          ESG–Casualty Risk Dashboard · Demo build for presentation · © 2025 Navdeep Hira
+          ESG–Casualty Risk Dashboard · Demo build for presentation · © 2025 Nav Singh Hira
         </footer>
       </div>
     </div>
